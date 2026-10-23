@@ -1,0 +1,69 @@
+{
+  "nombre": "Camila Rojas Fuentes",
+  "titular": "Ingeniera Comercial | Control de Gestión y Análisis Financiero",
+  "contacto": {
+    "ciudad": "Providencia, Santiago",
+    "telefono": "+56 9 8765 4321",
+    "email": "camila.rojas.f@gmail.com",
+    "linkedin": "linkedin.com/in/camilarojasf"
+  },
+  "perfil": "Ingeniera Comercial con 7 años de experiencia en control de gestión en retail y servicios financieros. Especializada en presupuestos, modelos de rentabilidad y automatización de reportes con Power BI y SQL. He liderado procesos de presupuesto de más de $40.000 millones y reducido a la mitad los tiempos de cierre mensual.",
+  "experiencia": [
+    {
+      "empresa": "Cencosud S.A.",
+      "ubicacion": "Santiago, Chile",
+      "cargo": "Analista Senior de Control de Gestión",
+      "inicio": "03/2021",
+      "fin": "Actualidad",
+      "logros": [
+        "Lideré el presupuesto anual de la división supermercados (más de $40.000 millones), coordinando a 12 jefaturas de área.",
+        "Reduje el cierre de gestión mensual de 8 a 4 días hábiles automatizando 15 reportes en Power BI y SQL Server.",
+        "Diseñé un modelo de rentabilidad por tienda que identificó 6 locales deficitarios y respaldó un plan de ajuste de $1.200 millones anuales.",
+        "Capacité a 25 usuarios de negocio en el uso de tableros, bajando las solicitudes de reportes ad hoc en un 40%."
+      ]
+    },
+    {
+      "empresa": "Banco de Crédito e Inversiones (Bci)",
+      "ubicacion": "Santiago, Chile",
+      "cargo": "Analista de Control de Gestión",
+      "inicio": "01/2019",
+      "fin": "02/2021",
+      "logros": [
+        "Construí el seguimiento mensual de margen por producto para la banca de personas, usado por gerencia en el comité de resultados.",
+        "Migré 30 planillas manuales a un modelo centralizado en Excel con Power Query, eliminando errores de consolidación.",
+        "Elaboré análisis de desviaciones presupuestarias que redujeron la brecha entre forecast y real de 9% a 3%."
+      ]
+    },
+    {
+      "empresa": "Deloitte Chile",
+      "ubicacion": "Santiago, Chile",
+      "cargo": "Asistente de Auditoría",
+      "inicio": "03/2017",
+      "fin": "12/2018",
+      "logros": [
+        "Participé en auditorías financieras de 8 clientes de retail y manufactura, revisando ciclos de ingresos e inventarios."
+      ]
+    }
+  ],
+  "educacion": [
+    {
+      "institucion": "Universidad de Chile",
+      "ubicacion": "Santiago, Chile",
+      "titulo": "Ingeniería Comercial, mención Administración",
+      "inicio": "2012",
+      "fin": "2016"
+    }
+  ],
+  "certificaciones": [
+    {"nombre": "Diplomado en Control de Gestión", "emisor": "Universidad Adolfo Ibáñez", "fecha": "2020"},
+    {"nombre": "Microsoft Certified: Power BI Data Analyst Associate", "emisor": "Microsoft", "fecha": "2022"}
+  ],
+  "habilidades": [
+    {"categoria": "Herramientas", "items": ["Power BI", "SQL Server", "Excel avanzado (Power Query, Power Pivot)", "SAP FI/CO"]},
+    {"categoria": "Gestión", "items": ["Presupuesto y forecast", "Modelos de rentabilidad", "KPIs", "Análisis de desviaciones"]}
+  ],
+  "idiomas": [
+    {"idioma": "Español", "nivel": "nativo"},
+    {"idioma": "Inglés", "nivel": "intermedio, B1"}
+  ]
+}
